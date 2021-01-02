@@ -1,0 +1,255 @@
+.nav-header{
+ 
+   background-color: black;
+    height: auto;
+    padding: 20px 10px 0px 120px ;
+
+}
+.nav-header i{
+    color: white;
+    font-size: 20px;
+    float: left;
+    /* margin-right: 40%; */
+}
+
+.navs ul li {
+margin: 15px;
+text-decoration: none;
+padding-bottom: 10px;
+
+
+}
+.nav-item a{
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    font-weight: 300;
+}
+.sign{
+    border: none;
+    padding: 0px 0px 0px 0px;
+    border-left: solid white 1px;
+
+}
+.nav-item a:hover{color: #1ed760;}
+.row{
+    display: flex;
+    padding: 50px 0px 100px 90px;
+}
+.column{
+    flex: 50%;
+}
+.content-2{
+    background-color:#a5ffef ;
+    height: auto;
+}
+.content-details{
+    padding-top: 40px;
+}
+.content-details p{
+    text-transform: uppercase;
+    color:#c91585 ;
+    margin-bottom: 20px;
+}
+.column h2{
+    color:#c91585 ;
+    margin-bottom: 50px;
+
+}
+.header-text{
+    font-size:64px ;
+    line-height: 64px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    
+}
+.sub-text{
+    font-size: 18px;
+    font-weight: 600;
+}
+.btn-btn{
+    padding: 10px 30px;
+    background-color: #c91585;
+    border-style: none;
+    border-radius: 20px;
+    margin-bottom: 20px;
+
+}
+
+.btn-btn a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+.btn-btn a:hover{
+ 
+}
+.column p{
+    font-size: 10px;
+}
+#disk-image{
+    /* background:url(https://campaigns.scdn/.co/images/holiday-2020-second-wave.jpg) ; */
+    height: auto;
+}
+.content-3{
+ background-color: #c91585;
+background-size: contain;
+color: #a5e9cc;
+
+}
+.row-2{
+display: flex;
+padding: 50px 150px 100px 20px;
+}
+.column-2{
+    flex: 50%;
+}
+.column-2 h4{
+    font-size: 15px;
+    margin-bottom: 40px;
+
+}
+.column-2 h3{
+    font-size: 64px;
+    line-height: 64px;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
+.column-2 p{
+    font-size: 20px;
+}
+.button{
+    border-style: none;
+    background-color: white;
+    border-radius: 18px;
+    padding: 10px 50px;
+}
+.button a{
+    text-transform:uppercase ;
+    text-decoration: none;
+    color: #c91585;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+.content-4{
+  background-size:cover;
+   background-color: #2d46b9; 
+  background-image: url(https://www.scdn.co/i/projectRamses/LiE_circles.svg);
+  
+  background-repeat: no-repeat;
+}
+.sub-content-4{
+    color:#1ed760;
+    padding: 100px 300px 150px 90px;
+}
+.sub-content-4 h4{
+    text-transform: uppercase;
+    font-size: 15px;
+    margin-bottom: 40px;
+  
+  
+
+}
+.sub-content-4 h2{
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 64px;
+    margin-bottom: 40px;
+    display:flex;
+    flex-wrap: wrap;
+}
+.sub-content-4 p{
+    font-size: 20px;
+    margin-bottom: 40px;
+
+}
+.btn-3{
+    border-style: none;
+    background-color:#1ed760;
+    border-radius: 18px;
+    padding: 10px 70px;
+}
+.btn-3 a{
+    text-transform:uppercase ;
+    text-decoration: none;
+     color:  #2d46b9;
+    font-size: 15px;
+    font-weight: 500;
+
+}
+footer{
+    background-color: #000000;
+}
+footer .row-3{
+padding: 100px 10px 50px 90px;
+display: flex;
+
+
+}
+.column3 i{
+    color: white;
+    font-size: 30px;
+}
+.column3 ul{
+list-style: none;
+line-height: 3.0;
+}
+.column3 li{
+    color: #839496;
+}
+.column3 a{
+    text-decoration: none;
+    color: #ffffff;
+}
+.column3 a:hover{
+    color: #1ed760;
+}
+.socials{
+    display: flex;
+   
+}
+.socials li{
+    background-color:#222326 ;
+    display: inline;
+    display: -webkit-inline-box;
+    -webkit-box-align: center;
+    /* justify-content: center; */
+    text-align: center;
+    margin: 10px;
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+    align-items: center;
+      
+    
+}
+
+.socials li a {
+    justify-content: center;
+
+}
+.socials li a :hover{
+    color: #1ed760;
+}
+.socials li a i{
+    align-items: center;
+}
+.lists{
+    margin-top: 40px;
+   list-style: none;
+   display: flex;
+   padding:0px 0px 2px 90px ;
+
+
+}
+.lists li{
+    margin:20px;
+
+}
+.lists li a{
+    text-decoration: none;
+    color:#6c9487 ;
+    font-size: 12px;
+}
+.lists li a :hover{color: #1ed760;}
